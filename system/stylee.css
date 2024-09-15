@@ -1,0 +1,13 @@
+.container{
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 700px;
+    height: 500px;
+    margin: 50px auto;
+    background-color: gray;
+}
+H1{
+    color: white;
+    margin: auto;
+    justify-content: center;
+}

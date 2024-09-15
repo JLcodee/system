@@ -1,0 +1,36 @@
+*{
+    margin-top: 0;
+    padding: 0;
+    font-weight: bold;
+}
+.signup-form{
+    height: 400px;
+    width: 400px;
+    margin: 150px auto;
+}
+.form{
+    height: inherit;
+}
+input{
+    display: flex;
+    margin: auto;
+    margin-bottom: 5px;
+    border-radius: 15px;
+    border: 2px solid black;
+    font-size: 25px;
+    padding: 10px 20px;
+}
+button{
+    display: flex;
+    margin: auto;
+    font-size: 25px;
+    padding: 10px 50px;
+    border:none;
+    border-radius: 40px;
+}
+button:hover{
+    background-color: rgb(103, 194, 255);
+    transition: 0.7s ease-in-out;
+    border: 0.5px solid black;
+}
+
